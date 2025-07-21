@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS and React Native**
 
-- 👨‍💻 All of my projects are available at [tinglu.dev](tinglu.dev)
+- 👨‍💻 All of my projects are available at [tinglu.dev](https://www.tinglu.dev/)
 
 - 📫 How to reach me **tinglu30@gmail.com**
 
